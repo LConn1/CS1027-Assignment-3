@@ -1,5 +1,5 @@
 /**
- *  @author Leland Conn, Student Number: 250946924
+ *  @author Leland Conn
  *
  *   This class implements all the methods in the PriorityQueueADT.java interface
  *   and it stores the data items of the priority queue in a doubly linked list.
