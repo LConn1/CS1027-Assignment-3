@@ -1,2 +1,1 @@
-# CS1027-Assignment-3
-Finds the shortest path from UWO store to Home
+Run the FindShortestPath class and have args[0] be the text file representing the map.
