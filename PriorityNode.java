@@ -1,5 +1,5 @@
 /**
- *  @author Leland Conn, Student Number: 250946924
+ *  @author Leland Conn
  *  
  *  This class represents the nodes of the doubly linked
  *  list used to implement the priority queue.
