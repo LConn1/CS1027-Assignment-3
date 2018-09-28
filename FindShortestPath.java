@@ -1,5 +1,5 @@
 /**
- *  @author Leland Conn, Student Number: 250946924
+ *  @author Leland Conn
  *  
  *  In this class an algorithm is implemented to compute a shortest path
  *  from the UWO store cell to the customer cell.
